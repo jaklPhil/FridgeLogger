@@ -16,8 +16,6 @@
 #### 3. Connect your ESP32 an run PlatformIO "upload". 
 
 ### Hardware
-![alt text](readme/circuit.png "ESP Wirining")
-
 #### Components
 | Description         | Component   | amount  	   |
 | ------------------- |-------------|-------------|
@@ -25,9 +23,6 @@
 | temperature sensor  | DHT22       | 5           |
 | Distance sensor     | HC-SR04     | 1           |
 | Current transformer | ZMCT103C    | 1           |
-
-
-
 
 #### Wiring diagramm
 ![alt text](readme/circuit.png "ESP Wirining")
