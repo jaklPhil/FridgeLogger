@@ -9,16 +9,18 @@
 
 
 ## Build
+### Software (Google Apps Script)
+#### 1. Create a new Google Sheets document.
+#### 2. [Add Google Apps Script to Project] (https://developers.google.com/apps-script/guides/sheets#connecting_to_google_forms)
+#### 3. [paste the code in your script.gs](Google Apps Script/loggerBackend.js).
 
 ### Software (ESP32)
 #### 1. Install [PlatformIO](https://platformio.org/platformio-ide) extension.
 #### 2. Configure your Wifi [setupWifi.h](ESP32/src/espService/setupWifi.h).
+#### 2. Configure your Google Script endpoint [HTTP endpoint](https://github.com/jaklPhil/FridgeLogger/blob/2461b9a289d12748e377009df085bbd735967b8e/ESP32/src/dataService/httpService.cpp#L6)).
 #### 3. Connect your ESP32 an run PlatformIO "upload". 
 
-### Software (ESP32)
-#### 1. Install [PlatformIO](https://platformio.org/platformio-ide) extension.
-#### 2. Configure your Wifi [setupWifi.h](src/espService/setupWifi.h).
-#### 3. Connect your ESP32 an run PlatformIO "upload". 
+
 
 ### Hardware
 #### Components
