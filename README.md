@@ -1,6 +1,8 @@
 # FridgeLogger
- An ESP32 based measuring device for a houshold Fridge.
- The Purpous is to analysing the correlation between door openings and energy conmsumption.
+## The myth of the open refrigerator - how much energy is getting lost
+
+ An ESP32 based measuring device for a domestic refrigerator.
+ The purpous is to analysing the correlation between the refrigerators energy conmsumption and the door openings.
 #### Software concept
 ![alt text](readme/achrichtektur.png "Software concept")
 
