@@ -10,7 +10,12 @@
 
 ## Build
 
-### Software
+### Software (ESP32)
+#### 1. Install [PlatformIO](https://platformio.org/platformio-ide) extension.
+#### 2. Configure your Wifi [setupWifi.h](ESP32/src/espService/setupWifi.h).
+#### 3. Connect your ESP32 an run PlatformIO "upload". 
+
+### Software (ESP32)
 #### 1. Install [PlatformIO](https://platformio.org/platformio-ide) extension.
 #### 2. Configure your Wifi [setupWifi.h](src/espService/setupWifi.h).
 #### 3. Connect your ESP32 an run PlatformIO "upload". 
