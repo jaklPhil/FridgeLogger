@@ -13,8 +13,8 @@
 ## Build
 ### Software (Google Apps Script)
 #### 1. Create a new Google Sheets document.
-#### 2. Add Google Apps Script to Project [Google Apps Script](https://developers.google.com/apps-script/guides/sheets#connecting_to_google_forms)
-#### 3. Paste the code in your Google Apps sprtip.gs file [Script](Google%20Apps%20Script/loggerBackend.js).
+#### 2. Add Google Apps Script to a Google Sheets file [Connecting Google Apps Script](https://developers.google.com/apps-script/guides/sheets#connecting_to_google_forms)
+#### 3. Paste the code in your Google Apps script.gs file [Script](Google%20Apps%20Script/loggerBackend.js).
 
 ### Software (ESP32)
 #### 1. Install [PlatformIO](https://platformio.org/platformio-ide) extension.
