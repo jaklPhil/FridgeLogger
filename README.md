@@ -27,11 +27,13 @@
 | Current transformer | ZMCT103C    | 1           |
 
 ### Wiring diagramm
-![alt text](readme/circuit.png "ESP Wirining")
+<img src="readme/circuit.png" width="480">
 
 # Architecture
 ### Software 
-![alt text](readme/achrichtektur.png "Software concept")
+<img src="readme/achrichtektur.png" width="480">
+
 
 ### Hardware
-![alt text](readme/Hardware%20Setup.png "Hardware concept")
+<img src="readme/Hardware%20Setup.png" width="480">
+
