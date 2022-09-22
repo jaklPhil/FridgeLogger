@@ -35,5 +35,5 @@
 
 
 ### Hardware
-<img src="readme/Hardware%20Setup.png" width="480">
+<img src="readme/HardwareSetup.png" width="480">
 
